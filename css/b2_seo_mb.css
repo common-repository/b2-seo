@@ -1,0 +1,6 @@
+input.ti,textarea.ta{width: 95%;}
+select.st{width: 250px;}
+textarea.ta{height: 100px;}
+table.b2t{width:100%;}
+.b2t th {text-align: right;vertical-align: text-top;padding: 5px 10px 0 0;width: 25%;}
+.b2t td {width: 75%;}
